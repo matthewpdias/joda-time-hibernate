@@ -423,9 +423,8 @@
     </repository>
     <snapshotRepository>
       <uniqueVersion>false</uniqueVersion>
-      <id>sonatype-joda-snapshot</id>
-      <name>Sonatype OSS snapshot repository</name>
-      <url>http://oss.sonatype.org/content/repositories/joda-snapshots</url>
+      <id>snapshot</id>
+      <url>http://10.0.2.2:8081/repository/maven-snapshots/</url>
       <layout>default</layout>
     </snapshotRepository>
     <downloadUrl>http://oss.sonatype.org/content/repositories/joda-releases</downloadUrl>
