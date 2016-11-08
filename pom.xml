@@ -422,11 +422,9 @@
       <layout>default</layout>
     </repository>
     <snapshotRepository>
-      <uniqueVersion>false</uniqueVersion>
-      <id>snapshot</id>
-      <url>http://10.0.2.2:8081/repository/maven-snapshots/</url>
-      <layout>default</layout>
-    </snapshotRepository>
+            <id>snapshots</id>
+            <url>http://10.0.2.2:8081/repository/maven-snapshots/</url>
+        </snapshotRepository>
     <downloadUrl>http://oss.sonatype.org/content/repositories/joda-releases</downloadUrl>
   </distributionManagement>
 
