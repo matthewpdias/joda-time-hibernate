@@ -451,9 +451,8 @@
   <!-- ==================================================================== -->
   <distributionManagement>
     <repository>
-      <id>sonatype-joda-staging</id>
-      <name>Sonatype OSS staging repository</name>
-      <url>http://oss.sonatype.org/service/local/staging/deploy/maven2/</url>
+      <id>deploymenyt</id>
+      <url>http://10.0.2.2:8081/repository/maven-releases/</url>
       <layout>default</layout>
     </repository>
     <snapshotRepository>
