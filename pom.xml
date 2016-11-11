@@ -457,7 +457,7 @@
       <layout>default</layout>
     </repository>
     <snapshotRepository>
-            <id>snapshots</id>
+            <id>deployment</id>
             <url>http://10.0.2.2:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
     <downloadUrl>http://oss.sonatype.org/content/repositories/joda-releases</downloadUrl>
